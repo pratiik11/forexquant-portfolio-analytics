@@ -1,0 +1,9 @@
+pandas==2.1.0
+requests==2.31.0
+python-dotenv==1.0.0
+streamlit==1.27.0
+matplotlib==3.8.0
+seaborn==0.13.0
+numpy==1.26.0
+plotly==5.16.0
+riskfolio-lib==7.0.1 
