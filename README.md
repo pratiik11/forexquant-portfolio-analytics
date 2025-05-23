@@ -11,8 +11,8 @@ A comprehensive **Streamlit-powered** platform for constructing and analyzing cu
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/forexquant-project.git
-cd forexquant-project
+git clone https://github.com/pratiik11/forexquant-portfolio-analytics.git
+cd forexquant-portfolio-analytics
 pip install -r requirements.txt
 streamlit run app/main.py
 ```
@@ -291,9 +291,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@pratiik11](https://github.com/pratiik11)
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **Email**: pratikpatil1104@gmail.com
 
 *Looking for opportunities in quantitative finance, portfolio analytics, or fintech!*
 
